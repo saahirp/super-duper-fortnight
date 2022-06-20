@@ -1,0 +1,1 @@
+var teachablelink = "https://teachablemachine.withgoogle.com/models/syyIQRSak/"
